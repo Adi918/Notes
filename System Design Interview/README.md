@@ -1,6 +1,6 @@
 # System Design Interview - An Insider's Guide (vol 1)
 
- * [Chapter 1 - Scale From Zero To Millions Of Users](./1 Scale from zero to millions of users.pdf)
+ * [Chapter 1 - Scale From Zero To Millions Of Users](https://github.com/Adi918/Notes/blob/main/System%20Design%20Interview/1%20Scale%20from%20zero%20to%20millions%20of%20users.pdf)
  * [Chapter 2 - Back-of-the-envelope Estimation](./chapter03)
  * [Chapter 3 - A Framework For System Design Interviews](./chapter04)
  * [Chapter 4 - Design A Rate Limiter](./chapter05)
